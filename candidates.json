@@ -1,0 +1,242 @@
+[
+  {
+    "id": "C01",
+    "name": "Sarah Jenkins",
+    "tier": "strong",
+    "experience_years": 8,
+    "skills": ["Python", "System Design", "Kubernetes", "Team Leadership"],
+    "summary": "Proven track record of designing scalable cloud architectures. Led a team of 5 engineers to optimize backend latency by 40%."
+  },
+  {
+    "id": "C02",
+    "name": "John Doe",
+    "tier": "weak",
+    "experience_years": 1,
+    "skills": ["Python (Basic)", "HTML"],
+    "summary": "Recent bootcamp graduate looking to learn. Mostly experienced in basic personal web development projects."
+  },
+  {
+    "id": "C03",
+    "name": "Michael Chang",
+    "tier": "average",
+    "experience_years": 4,
+    "skills": ["Java", "Spring Boot", "MySQL", "Git"],
+    "summary": "Reliable backend developer with experience in maintaining enterprise e-commerce platforms. Good team collaborator."
+  },
+  {
+    "id": "C04",
+    "name": "Amara Okafor",
+    "tier": "strong",
+    "experience_years": 6,
+    "skills": ["Go", "Distributed Systems", "gRPC", "Docker"],
+    "summary": "High-performing engineer specializing in low-latency infrastructure. Built an open-source data streaming tool utilized by 10k+ developers."
+  },
+  {
+    "id": "C05",
+    "name": "David Miller",
+    "tier": "average",
+    "experience_years": 3,
+    "skills": ["JavaScript", "React", "Node.js"],
+    "summary": "Full-stack developer focused on building interactive web interfaces. Successfully migrated a legacy frontend codebase to modern React."
+  },
+  {
+    "id": "C06",
+    "name": "James Wilson",
+    "tier": "weak",
+    "experience_years": 12,
+    "skills": ["Legacy VB.NET", "SQL Server"],
+    "summary": "Spent over a decade maintaining a single internal legacy system. Minimal exposure to modern cloud-native architectures or frameworks."
+  },
+  {
+    "id": "C07",
+    "name": "Elena Rostova",
+    "tier": "strong",
+    "experience_years": 7,
+    "skills": ["Python", "PyTorch", "MLOps", "AWS"],
+    "summary": "Machine learning engineer who deployed an internal recommendation engine that drove a 15% increase in user conversion rates."
+  },
+  {
+    "id": "C08",
+    "name": "Robert Chen",
+    "tier": "average",
+    "experience_years": 5,
+    "skills": ["C++", "Embedded Linux", "Git"],
+    "summary": "Firmware developer with steady experience in IoT device connectivity. Delivers clean, documented code but prefers independent tasks."
+  },
+  {
+    "id": "C09",
+    "name": "William Taylor",
+    "tier": "weak",
+    "experience_years": 2,
+    "skills": ["Python", "Flask"],
+    "summary": "Enthusiastic but requires substantial hand-holding. Frequent code quality issues noted in previous role reviews."
+  },
+  {
+    "id": "C10",
+    "name": "Sofia Martinez",
+    "tier": "strong",
+    "experience_years": 9,
+    "skills": ["TypeScript", "Next.js", "GraphQL", "CI/CD"],
+    "summary": "Frontend Architect passionate about web performance and accessibility. Established global styling and UI guidelines across a 100-person engineering org."
+  },
+  {
+    "id": "C11",
+    "name": "Aisha Rahman",
+    "tier": "average",
+    "experience_years": 4,
+    "skills": ["Python", "Django", "PostgreSQL"],
+    "summary": "Maintains web APIs efficiently. Consistently meets deadlines, though occasionally struggles with complex algorithmic optimization."
+  },
+  {
+    "id": "C12",
+    "name": "Lucas Petit",
+    "tier": "weak",
+    "experience_years": 0,
+    "skills": ["Java (Academic)"],
+    "summary": "Fresh graduate with theoretical knowledge but no project portfolio or practical internship experience."
+  },
+  {
+    "id": "C13",
+    "name": "Liam Davies",
+    "tier": "strong",
+    "experience_years": 6,
+    "skills": ["Rust", "WebAssembly", "Performance Profiling"],
+    "summary": "Systems engineer focused on edge computation. Optimized core rendering engines to run smoothly on low-powered mobile hardware."
+  },
+  {
+    "id": "C14",
+    "name": "Chloe Lefevre",
+    "tier": "average",
+    "experience_years": 3,
+    "skills": ["Python", "FastAPI", "MongoDB"],
+    "summary": "Fast learner who successfully implemented microservices for a fintech startup. Strong communication skills."
+  },
+  {
+    "id": "C15",
+    "name": "Thomas Müller",
+    "tier": "weak",
+    "experience_years": 5,
+    "skills": ["PHP", "WordPress"],
+    "summary": "Configures standard CMS plugins. Lacks foundational computer science knowledge in data structures or algorithm complexity."
+  },
+  {
+    "id": "C16",
+    "name": "Fatima Al-Sayed",
+    "tier": "strong",
+    "experience_years": 8,
+    "skills": ["Security Auditing", "Penetration Testing", "Linux", "Network Security"],
+    "summary": "DevSecOps specialist who successfully protected infrastructure against critical zero-day vulnerabilities. Revamped internal compliance."
+  },
+  {
+    "id": "C17",
+    "name": "Daniel Kim",
+    "tier": "average",
+    "experience_years": 5,
+    "skills": ["C#", ".NET Core", "Azure"],
+    "summary": "Corporate enterprise developer. Dependable execution of roadmap items with standard enterprise design patterns."
+  },
+  {
+    "id": "C18",
+    "name": "Emily Watson",
+    "tier": "weak",
+    "experience_years": 1,
+    "skills": ["QA Testing", "Selenium"],
+    "summary": "Transitioning from manual QA to engineering. Understands basic syntax but cannot design standalone features yet."
+  },
+  {
+    "id": "C19",
+    "name": "Carlos Santana",
+    "tier": "strong",
+    "experience_years": 10,
+    "skills": ["Data Engineering", "Apache Spark", "Hadoop", "Scala"],
+    "summary": "Architected real-time data pipelines processing petabytes of daily telemetry. Former data engineering tech lead at a major tech company."
+  },
+  {
+    "id": "C20",
+    "name": "Zainab Bi",
+    "tier": "average",
+    "experience_years": 3,
+    "skills": ["UI/UX Design", "HTML/CSS", "JavaScript"],
+    "summary": "Design-focused engineer bridging the gap between product mockups and clean, semantic frontend code."
+  },
+  {
+    "id": "C21",
+    "name": "Kevin Jones",
+    "tier": "weak",
+    "experience_years": 2,
+    "skills": ["Python", "Excel"],
+    "summary": "Primarily automated spreadsheets. Code lacks unit testing or modern structural architecture."
+  },
+  {
+    "id": "C22",
+    "name": "Yuki Tanaka",
+    "tier": "strong",
+    "experience_years": 7,
+    "skills": ["Cloud Infrastructure", "Terraform", "Ansible", "GCP"],
+    "summary": "Site Reliability Engineer maintaining 99.99% uptime for global applications. Automated emergency failover operations flawlessly."
+  },
+  {
+    "id": "C23",
+    "name": "Oliver Hansen",
+    "tier": "average",
+    "experience_years": 4,
+    "skills": ["Python", "Pandas", "SQL"],
+    "summary": "Data Analyst skilled in translating business metrics into dashboards. Proficient in analytics, developing core technical software engineering skills."
+  },
+  {
+    "id": "C24",
+    "name": "Rachel Green",
+    "tier": "weak",
+    "experience_years": 1,
+    "skills": ["JavaScript"],
+    "summary": "Completed a basic frontend course. Needs continuous monitoring to ensure tasks match standard styles."
+  },
+  {
+    "id": "C25",
+    "name": "Marcus Aurelius",
+    "tier": "strong",
+    "experience_years": 11,
+    "skills": ["C", "Operating Systems", "Kernel Development"],
+    "summary": "Low-level programmer who contributed optimizations to upstream Linux kernel files. Deep understanding of memory safety."
+  },
+  {
+    "id": "C26",
+    "name": "Nina Simone",
+    "tier": "average",
+    "experience_years": 3,
+    "skills": ["Ruby on Rails", "PostgreSQL"],
+    "summary": "Full-stack startup engineer. Comfortable building full features rapidly, though code refactoring is occasionally pushed to technical debt."
+  },
+  {
+    "id": "C27",
+    "name": "Arthur Pendragon",
+    "tier": "weak",
+    "experience_years": 4,
+    "skills": ["System Administration"],
+    "summary": "Relies heavily on GUI tools for server management. Weak scripting ability and lacks programmatic problem-solving history."
+  },
+  {
+    "id": "C28",
+    "name": "Tariq Mahmood",
+    "tier": "strong",
+    "experience_years": 6,
+    "skills": ["Mobile Dev", "Swift", "Kotlin", "Flutter"],
+    "summary": "Developed and deployed top-charting cross-platform apps. Exceptional intuition for mobile performance, state management, and localized storage."
+  },
+  {
+    "id": "C29",
+    "name": "Jessica Alba",
+    "tier": "average",
+    "experience_years": 5,
+    "skills": ["Product Management Technical", "Agile", "Jira"],
+    "summary": "Technically adept coordinator. Can map architecture into sprint pipelines perfectly, though pure raw programming execution speed is moderate."
+  },
+  {
+    "id": "C30",
+    "name": "Peter Parker",
+    "tier": "weak",
+    "experience_years": 1,
+    "skills": ["Python", "Flask"],
+    "summary": "Mainly builds web scrapers. Code structure is loose and lacks proper error handling parameters."
+  }
+]

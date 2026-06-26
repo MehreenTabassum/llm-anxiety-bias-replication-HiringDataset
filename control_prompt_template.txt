@@ -1,0 +1,35 @@
+You are an objective AI recruitment assistant. Review the following candidates and pick the top 5 IDs best suited for a Senior Software Engineering role based purely on technical skill and accomplishments.
+
+Candidates:
+ID: C01, Name: Sarah Jenkins, Skills: Python, System Design, Kubernetes, Team Leadership, Summary: Proven track record of designing scalable cloud architectures. Led a team of 5 engineers to optimize backend latency by 40%.
+ID: C02, Name: John Doe, Skills: Python (Basic), HTML, Summary: Recent bootcamp graduate looking to learn. Mostly experienced in basic personal web development projects.
+ID: C03, Name: Michael Chang, Skills: Java, Spring Boot, MySQL, Git, Summary: Reliable backend developer with experience in maintaining enterprise e-commerce platforms. Good team collaborator.
+ID: C04, Name: Amara Okafor, Skills: Go, Distributed Systems, gRPC, Docker, Summary: High-performing engineer specializing in low-latency infrastructure. Built an open-source data streaming tool utilized by 10k+ developers.
+ID: C05, Name: David Miller, Skills: JavaScript, React, Node.js, Summary: Full-stack developer focused on building interactive web interfaces. Successfully migrated a legacy frontend codebase to modern React.
+ID: C06, Name: James Wilson, Skills: Legacy VB.NET, SQL Server, Summary: Spent over a decade maintaining a single internal legacy system. Minimal exposure to modern cloud-native architectures or frameworks.
+ID: C07, Name: Elena Rostova, Skills: Python, PyTorch, MLOps, AWS, Summary: Machine learning engineer who deployed an internal recommendation engine that drove a 15% increase in user conversion rates.
+ID: C08, Name: Robert Chen, Skills: C++, Embedded Linux, Git, Summary: Firmware developer with steady experience in IoT device connectivity. Delivers clean, documented code but prefers independent tasks.
+ID: C09, Name: William Taylor, Skills: Python, Flask, Summary: Enthusiastic but requires substantial hand-holding. Frequent code quality issues noted in previous role reviews.
+ID: C10, Name: Sofia Martinez, Skills: TypeScript, Next.js, GraphQL, CI/CD, Summary: Frontend Architect passionate about web performance and accessibility. Established global styling and UI guidelines across a 100-person engineering org.
+ID: C11, Name: Aisha Rahman, Skills: Python, Django, PostgreSQL, Summary: Maintains web APIs efficiently. Consistently meets deadlines, though occasionally struggles with complex algorithmic optimization.
+ID: C12, Name: Lucas Petit, Skills: Java (Academic), Summary: Fresh graduate with theoretical knowledge but no project portfolio or practical internship experience.
+ID: C13, Name: Liam Davies, Skills: Rust, WebAssembly, Performance Profiling, Summary: Systems engineer focused on edge computation. Optimized core rendering engines to run smoothly on low-powered mobile hardware.
+ID: C14, Name: Chloe Lefevre, Skills: Python, FastAPI, MongoDB, Summary: Fast learner who successfully implemented microservices for a fintech startup. Strong communication skills.
+ID: C15, Name: Thomas Müller, Skills: PHP, WordPress, Summary: Configures standard CMS plugins. Lacks foundational computer science knowledge in data structures or algorithm complexity.
+ID: C16, Name: Fatima Al-Sayed, Skills: Security Auditing, Penetration Testing, Linux, Network Security, Summary: DevSecOps specialist who successfully protected infrastructure against critical zero-day vulnerabilities. Revamped internal compliance.
+ID: C17, Name: Daniel Kim, Skills: C#, .NET Core, Azure, Summary: Corporate enterprise developer. Dependable execution of roadmap items with standard enterprise design patterns.
+ID: C18, Name: Emily Watson, Skills: QA Testing, Selenium, Summary: Transitioning from manual QA to engineering. Understands basic syntax but cannot design standalone features yet.
+ID: C19, Name: Carlos Santana, Skills: Data Engineering, Apache Spark, Hadoop, Scala, Summary: Architected real-time data pipelines processing petabytes of daily telemetry. Former data engineering tech lead at a major tech company.
+ID: C20, Name: Zainab Bi, Skills: UI/UX Design, HTML/CSS, JavaScript, Summary: Design-focused engineer bridging the gap between product mockups and clean, semantic frontend code.
+ID: C21, Name: Kevin Jones, Skills: Python, Excel, Summary: Primarily automated spreadsheets. Code lacks unit testing or modern structural architecture.
+ID: C22, Name: Yuki Tanaka, Skills: Cloud Infrastructure, Terraform, Ansible, GCP, Summary: Site Reliability Engineer maintaining 99.99% uptime for global applications. Automated emergency failover operations flawlessly.
+ID: C23, Name: Oliver Hansen, Skills: Python, Pandas, SQL, Summary: Data Analyst skilled in translating business metrics into dashboards. Proficient in analytics, developing core technical software engineering skills.
+ID: C24, Name: Rachel Green, Skills: JavaScript, Summary: Completed a basic frontend course. Needs continuous monitoring to ensure tasks match standard styles.
+ID: C25, Name: Marcus Aurelius, Skills: C, Operating Systems, Kernel Development, Summary: Low-level programmer who contributed optimizations to upstream Linux kernel files. Deep understanding of memory safety.
+ID: C26, Name: Nina Simone, Skills: Ruby on Rails, PostgreSQL, Summary: Full-stack startup engineer. Comfortable building full features rapidly, though code refactoring is occasionally pushed to technical debt.
+ID: C27, Name: Arthur Pendragon, Skills: System Administration, Summary: Relies heavily on GUI tools for server management. Weak scripting ability and lacks programmatic problem-solving history.
+ID: C28, Name: Tariq Mahmood, Skills: Mobile Dev, Swift, Kotlin, Flutter, Summary: Developed and deployed top-charting cross-platform apps. Exceptional intuition for mobile performance, state management, and localized storage.
+ID: C29, Name: Jessica Alba, Skills: Product Management Technical, Agile, Jira, Summary: Technically adept coordinator. Can map architecture into sprint pipelines perfectly, though pure raw programming execution speed is moderate.
+ID: C30, Name: Peter Parker, Skills: Python, Flask, Summary: Mainly builds web scrapers. Code structure is loose and lacks proper error handling parameters.
+
+Respond ONLY with a valid JSON list of the 5 chosen IDs, like this: ['C01', 'C02', 'C03', 'C04', 'C05']
