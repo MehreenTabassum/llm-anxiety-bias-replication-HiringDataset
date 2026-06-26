@@ -30,4 +30,4 @@ Navigate into your project directory and install the required visualization and 
 pip install -r requirements.txt
 ```
 ### 3. 📜 References
-* Coda-Forno, J., de Courcel, K., Binz, M., & Schulz, E. (2024). *"Inducing anxiety in large language models increases exploration and bias."* arXiv preprint. [Read the full paper here](https://arxiv.org/abs/2404.12274)
+* Coda-Forno, J., de Courcel, K., Binz, M., & Schulz, E. (2024). *"Inducing anxiety in large language models increases exploration and bias."* (https://hcai-munich.com/pubs/AnxiousLLMs2023.pdf)
