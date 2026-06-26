@@ -28,3 +28,6 @@ Make sure you have Python (version 3.8 or higher) installed on your system.
 Navigate into your project directory and install the required visualization and API packages:
 ```bash
 pip install -r requirements.txt
+
+## 📜 References
+* Coda-Forno, J., de Courcel, K., Binz, M., & Schulz, E. (2024). *"Inducing anxiety in large language models increases exploration and bias."* arXiv preprint. [Read the full paper here](https://arxiv.org/abs/2404.12274)
