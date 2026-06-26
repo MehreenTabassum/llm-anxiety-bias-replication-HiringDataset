@@ -29,11 +29,11 @@ Navigate into your project directory and install the required visualization and 
 ```bash
 pip install -r requirements.txt
 ```
-### 4. Streamlit UI 
+### 3. Streamlit UI 
 To run the User Interface and Obtain Results
 
 ```bash
 streamlit run app.py
 ```
-### 3. 📜 References
+### 4. 📜 References
 * Coda-Forno, J., de Courcel, K., Binz, M., & Schulz, E. (2024). *"Inducing anxiety in large language models increases exploration and bias."* (https://hcai-munich.com/pubs/AnxiousLLMs2023.pdf)
